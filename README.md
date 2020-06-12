@@ -1,2 +1,2 @@
 # ionic
-#.1 Comienzo del proyecto
+#otro readme
